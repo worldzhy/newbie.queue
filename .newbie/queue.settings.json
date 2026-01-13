@@ -14,7 +14,7 @@
     "QUEUE_REDIS_PASSWORD": ""
   },
   "dependencies": {
-    "@nestjs/bull": "^10.0.1",
-    "bull": "^4.11.5"
+    "@nestjs/bull": "latest",
+    "bull": "latest"
   }
 }
